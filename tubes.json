@@ -1,5 +1,4 @@
 [
-    {"Nama" : "Segitiga Sama Sisi ", "informasi" : "Segitiga sama sisi merupakan segitiga yang ketiga sisi dan sudutnya memiliki ukuran yang sama.
-","gambar" : "Segitiga-Sama-Sisi"},
-   {"Nama" : "Segitiga Sama Kaki ", "informasi" : "Segitiga sama kaki merupakan jenis segitiga yang memiliki sepasang sisi yang sama Panjang. Terdapat dua sudut yang sama besar.","gambar" : "Segitiga-Sama-Kaki"}
+    {"Nama" : "Segitiga Sama Sisi", "informasi" : "Segitiga sama sisi merupakan segitiga yang ketiga sisi dan sudutnya memiliki ukuran yang sama.", "gambar" : "Segitiga-Sama-Sisi"},
+    {"Nama" : "Segitiga Sama Kaki", "informasi" : "Segitiga sama kaki merupakan jenis segitiga yang memiliki sepasang sisi yang sama panjang dan juga terdapat dua sudut yang sama besar." "gambar" : "Segitiga-Sama-Kaki"}
 ]
